@@ -1,2 +1,1 @@
-# Proyecto-incompleto
-Hola
+# C19_Plantilla_Proyecto_Tu_Propio_Juego_de_corredor_infinito
